@@ -2,7 +2,7 @@ div {
     text-align: center;
   }
   button {
-   width: 50%;
+   width: 10%;
   height: 46px;
    padding: 0 26px;
    background-color: green;
@@ -11,10 +11,10 @@ div {
    border: none;
    border-radius: 2px;
    transition-duration: 300ms;
-   justify-content: center;
+   
   }
   input {
-   width: 50%;
+   width: 20%;
   height: 46px;
    padding: 0 26px;
    color: #FFFFFF;
