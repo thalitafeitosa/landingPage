@@ -24,7 +24,7 @@ h1 {
 p {
     font-size: 16px;
     color: #000000;
-    max-width: ;: 200px;
+    max-width: 200px;
 }
 div {
     text-align: center;
@@ -42,7 +42,7 @@ div {
 #teste{
   width: 400px;
   height: 300px;
-  background-image: /storage/emulated/0/Canva20230212_164454_0000~2.png  ; 
+  background-image: "/storage/emulated/0/Canva20230212_164454_0000~2.png"; 
 }
 
     
@@ -69,7 +69,7 @@ div {
    border: none;
    border-radius: 2px;
    transition-duration: 300ms;
-   display: inline
+   display: inline;
    justify-content: center;
   }
 .secao-detalhes i , .paragrafo {
@@ -101,7 +101,7 @@ div {
     text-align: left;
 }
 .mais {     
-    text text-align: right;
+    text-align: right;
 }
 .frase1 , .frase2 , .frase3 , .frase4{
    display: flex;
